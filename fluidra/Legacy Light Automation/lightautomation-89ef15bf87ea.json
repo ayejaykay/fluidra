@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lightautomation",
+  "private_key_id": "89ef15bf87eacfba6bbb8a66a9745910209cb8a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnglXEBHkJr2WN\n5fZOpIchfh+52EPN2TjtN/Gt8VyGESnBmiQpQf0/+KiBz6JVap0z1QCVjDInbtBR\nXbqpEKL6UHIaaCx+YHNBZnWmRlcqCVfJQ/DRH2ZeQvd39ePcnMznWcRkzfkpyB1T\niqyi7jVQBsZ1+hyhnsiWSm2qelIMhmFXaG/aYOwwsEaWQ7BABESmx1h3oUUyh41w\n08v9/tg9dfSc9xPL5JsWp50ZDaoabsgB3RwVOtxI1Grm270RHLZLtKOjkBFFx41j\nvWSO9IJhGRG6frY+vJIeIRJAFni3Zd/tBPtXBvA6XkvCnr9x1rde/z9DEA4qtwuX\n3ZAzDKM9AgMBAAECggEAHnPs+LJheNfIzCfLBBgYMwgVZ3mANiuwFDxP9TIEgqEb\nKMXHnjKPgnJH3DWtyv6TbsliDk4LDi0wtSInnbXXE0/NtqxKrn0FZxXj/KMcFJnX\nOlFeNf6R40AkckwjLUfaXpLsx/DERArL/hSfdw18ZryclvUuAFn4GI6WamBLi1gV\njCzfAEn2tiqSmgnI2a6YKt7C/Zmp2DB7kRGAW0Trc3v+2ZVv7jSmNF5hkBDt8dKl\n6TAgqb2STUf7lRi9soqsVc0W2AzA51V+xPLq82TD4gj9LnVA40LCTTeWfcjD6vMY\nFYtSGpLghEhMwOj8u4/xdtjRZVHTaw71vHreRg2dUQKBgQDRy8+XJufjZ7v1qdq/\nV31xWIX/HmwBTjSh6HN+9oZNQ0dAH9+oNnJ+J/3XVocHGGXeM2Dn3vsVPswMsvc7\nBU2+zbRZi1GhUkrom3Tgh/0LC2CtDEkijJGrbLaY9UJv6RWej0dA3fkdy97e5Hw8\nIYaxLjQBunFJPFm6yWEqgj/NqQKBgQDMZmfiyRbBYf79NcGbb5+tfYbkj93Ajy1K\ntKtCBba7CKIZ96IVJAyn8vVn+8bTxBZkGZ9To33nkqMjO0Qow5LqNBFmduv2cYoH\nCn1aXnyqUNA6UjdwVvneJxa0Wbk8imUIMBWjDhAQvSRaskleOiKD7wSVGUBU0UOG\njmEB4IuddQKBgBj5xHrgHNcLsGqsj+gbiEmIGlumyYDWSJnFzIoe2xozmjXeFYg3\nAyZVqHiMSoLjuqzbPPwdpZJ/6VbRr3ENTpYacw/97/fejiBm8WERj2RTNG0le0dr\nqKPZy1smR4R/IR3BPOBSDKgpbxzl4oxeCWTqdTKHeZkYYC5GbxTacLIRAoGBAIHm\nawtT5ORNlTHy4fIYxJALgJjtXW6tD4m0vEofO3wuBmceW6G34VszKwdEmZ2nttsy\n9XDALJnpNUiEt9J4SHwTTyOhXGCo06GZ5wRxnCTZaxxFd/orLG0kxmcjxndVNNQ5\nSubvXwJkUiBZwgriQ2E5m93tyFafD50KC1iYDeKpAoGANfxhnQqLGrZ2672aDxqk\nzGlFsb12VGHLVzK+SzW/BfJiqEJ22ScPOMRBiqsIyxnfiWVIRJ8Fnfb+ALmA94Rs\nWCGSnqx8RRdlnArhUUhsl6igrTiOoy/eDS8doShnv2stFsfjc+9dBPo0bh7QpUxm\nX2iTcTCoBg9hMG4eIC0SA2Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lightauto@lightautomation.iam.gserviceaccount.com",
+  "client_id": "103611988734147577789",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lightauto%40lightautomation.iam.gserviceaccount.com"
+}
